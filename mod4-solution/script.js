@@ -43,6 +43,8 @@ var names = ["Yaakov", "John", "Jen", "Jason", "Paul", "Frank", "Larry", "Paula"
 // 'speak' method.
 // See Lecture 50, part 1
 for (var i = 0; i < names.length; i++) {
+  console.log(names[i]);
+
 
   // STEP 11: (NOTHING TO DO. ALREADY DONE FOR YOU)
   // Retrieve the first letter of the current name in the loop.
